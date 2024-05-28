@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am a passionate .NET Developer, continuously lea
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASTR0-1&show_icons=true&count_private=true&theme=radical)
+<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASTR0-1&show_icons=true&count_private=true&theme=radical) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASTR0-1&layout=compact&theme=radical)
 
